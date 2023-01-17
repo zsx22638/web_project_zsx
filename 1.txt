@@ -17,3 +17,9 @@ master test
 我是hot-fix模块的!
 
 我是在github上面进行的更改 ！
+
+
+
+
+
+git-clone!  git-clone!
